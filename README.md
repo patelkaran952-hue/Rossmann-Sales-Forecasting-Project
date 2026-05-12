@@ -131,6 +131,10 @@ XGBoost achieved strong predictive accuracy for sales forecasting.
 📷 Dashboard Preview
 
 <img width="897" height="480" alt="Screenshot 2026-05-12 123510" src="https://github.com/user-attachments/assets/5944b61d-390a-46be-b700-5f2effe7b942" />
+<img width="635" height="497" alt="Screenshot 2026-05-12 123622" src="https://github.com/user-attachments/assets/7a5a28df-46f1-4228-9adc-3073182a6c66" />
+<img width="639" height="484" alt="Screenshot 2026-05-12 123822" src="https://github.com/user-attachments/assets/5662db19-5e77-499b-9c26-9f4ff47d62a2" />
+<img width="551" height="389" alt="Screenshot 2026-05-12 123655" src="https://github.com/user-attachments/assets/eafe751c-b43d-414c-9844-fbbfe659c361" />
+
 
 
 📂 Project Structure
